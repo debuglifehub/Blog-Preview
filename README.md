@@ -8,7 +8,7 @@ The Blog Preview Card displays a featured article with its category, publication
 
 ### Screenshot
 
-![Project Screenshot](./assets/images/screenshot.png)
+![Project Screenshot](design/design.jpg)
 
 ### Links
 
