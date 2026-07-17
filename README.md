@@ -12,8 +12,8 @@ The Blog Preview Card displays a featured article with its category, publication
 
 ### Links
 
-- Live Site: https://YOUR-NETLIFY-LINK.netlify.app/
-- Solution URL: https://github.com/YOUR_USERNAME/blog-preview-card
+- Live Site: https://myblogpreview.netlify.app/
+- Solution URL: https://github.com/debuglifehub/Blog-Preview.git
 
 ## Built With
 
